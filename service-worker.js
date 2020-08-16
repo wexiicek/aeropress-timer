@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aeropress-timer/precache-manifest.e2295b99277123715ef466c096cf49c5.js"
+  "/aeropress-timer/precache-manifest.00c1fcf1c13a15e486ea4626b94077f9.js"
 );
 
 self.addEventListener('message', (event) => {
