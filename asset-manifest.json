@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/aeropress-timer/static/css/main.53f744ad.chunk.css",
+    "main.js": "/aeropress-timer/static/js/main.4bf188a3.chunk.js",
+    "main.js.map": "/aeropress-timer/static/js/main.4bf188a3.chunk.js.map",
+    "runtime-main.js": "/aeropress-timer/static/js/runtime-main.5a256c91.js",
+    "runtime-main.js.map": "/aeropress-timer/static/js/runtime-main.5a256c91.js.map",
+    "static/js/2.575408f0.chunk.js": "/aeropress-timer/static/js/2.575408f0.chunk.js",
+    "static/js/2.575408f0.chunk.js.map": "/aeropress-timer/static/js/2.575408f0.chunk.js.map",
+    "static/js/3.cf5b5777.chunk.js": "/aeropress-timer/static/js/3.cf5b5777.chunk.js",
+    "static/js/3.cf5b5777.chunk.js.map": "/aeropress-timer/static/js/3.cf5b5777.chunk.js.map",
+    "index.html": "/aeropress-timer/index.html",
+    "precache-manifest.9b1741dd4d85fa24fef3cff3b2dde4a7.js": "/aeropress-timer/precache-manifest.9b1741dd4d85fa24fef3cff3b2dde4a7.js",
+    "service-worker.js": "/aeropress-timer/service-worker.js",
+    "static/css/main.53f744ad.chunk.css.map": "/aeropress-timer/static/css/main.53f744ad.chunk.css.map",
+    "static/js/2.575408f0.chunk.js.LICENSE.txt": "/aeropress-timer/static/js/2.575408f0.chunk.js.LICENSE.txt",
+    "static/js/3.cf5b5777.chunk.js.LICENSE.txt": "/aeropress-timer/static/js/3.cf5b5777.chunk.js.LICENSE.txt",
+    "static/media/bell.mp3": "/aeropress-timer/static/media/bell.53f632f2.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a256c91.js",
+    "static/js/2.575408f0.chunk.js",
+    "static/css/main.53f744ad.chunk.css",
+    "static/js/main.4bf188a3.chunk.js"
+  ]
+}
