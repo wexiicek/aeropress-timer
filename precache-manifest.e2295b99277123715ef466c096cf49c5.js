@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ae508ca6814ec6b341d471585b5880f",
+    "revision": "7a7aa0889984440a2284e6d6e20ca976",
     "url": "/aeropress-timer/index.html"
   },
   {
-    "revision": "1d79726619acb6f217ae",
+    "revision": "f15408958d5a61b8900a",
     "url": "/aeropress-timer/static/css/main.213fb575.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aeropress-timer/static/js/3.cf5b5777.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d79726619acb6f217ae",
-    "url": "/aeropress-timer/static/js/main.9a70e86d.chunk.js"
+    "revision": "f15408958d5a61b8900a",
+    "url": "/aeropress-timer/static/js/main.605ddcf1.chunk.js"
   },
   {
     "revision": "c34f97c695fb9953ec33",
